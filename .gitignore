@@ -11,6 +11,9 @@ hello-world
 babel.config.js
 package-lock.json
 
+__pycache__
+.pytest_cache
+
 logs
 *.log
 npm-debug.log*
